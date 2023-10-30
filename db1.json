@@ -1,0 +1,38 @@
+{
+  "videos": [
+    {
+      "id": 1,
+      "caption": "Luminar Technolab",
+      "cover_image": "https://i.postimg.cc/FRjN3rKs/download.jpg",
+      "video_url": "https://www.youtube.com/embed/OqyURAoQ4NQ?autoplay=1"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "news",
+      "videos": [
+        {
+          "id": 1,
+          "caption": "Luminar Technolab",
+          "cover_image": "https://i.postimg.cc/FRjN3rKs/download.jpg",
+          "video_url": "https://www.youtube.com/embed/OqyURAoQ4NQ?autoplay=1"
+        }
+      ]
+    }
+  ],
+  "histories": [
+    {
+      "id": "lo6oieki",
+      "video_title": "Luminar Technolab",
+      "url": "https://www.youtube.com/embed/OqyURAoQ4NQ?autoplay=1",
+      "date": "2023-10-26 9:53:08 AM"
+    },
+    {
+      "id": "lobs5x9o",
+      "video_title": "Luminar Technolab",
+      "url": "https://www.youtube.com/embed/OqyURAoQ4NQ?autoplay=1",
+      "date": "2023-10-29 11:34:15 "
+    }
+  ]
+}
